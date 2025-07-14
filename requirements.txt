@@ -1,0 +1,2 @@
+gradio==5.35.0
+python-dotenv==1.1.1
